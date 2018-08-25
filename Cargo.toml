@@ -1,0 +1,6 @@
+[package]
+name = "rust_mandlebrot"
+version = "0.1.0"
+authors = ["robertschaap"]
+
+[dependencies]
